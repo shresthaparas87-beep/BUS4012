@@ -1,0 +1,55 @@
+# ── Secrets & environment variables ──────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+*.env
+
+# ── Node / React ──────────────────────────────────────────────────────────────
+node_modules/
+dist/
+build/
+.vite/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+
+# ── Python / FastAPI backend ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+backend/venv/
+backend/.venv/
+backend/__pycache__/
+*.egg-info/
+dist/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ── OS & editors ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── Misc ─────────────────────────────────────────────────────────────────────
+.cache/
+coverage/
+.nyc_output/
