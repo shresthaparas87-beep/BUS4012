@@ -2,7 +2,8 @@
 
 **Vibe Coding for Startups** — A full-stack task management app built with React, FastAPI, and Supabase.
 
-GitHub: https://github.com/shresthaparas87-beep/BUS4012
+GitHub: https://github.com/shresthaparas87-beep/BUS4012  
+Live: https://bus-4012-ty1y.vercel.app/
 
 ---
 
